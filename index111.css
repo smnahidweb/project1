@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    max-width: 1000px;
+    background-color: pink;
+    padding: 10px;
+    margin: 0 auto;
+}
+.profile{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white ;
+    border-radius: 50%;
+    padding: 12px;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding-top: 50px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: teal;
+}
+.contact {
+    float: right;
+    margin-top: 40px;
+}
+.contact a{
+    color: teal;
+    font-weight: bold;
+    text-decoration: none;
+}
+.contact a:hover{
+    text-decoration: underline;
+    color: red ;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: 3px black solid;
+    margin-bottom: 20px auto;
+    width: 100%;
+    border-bottom: none;
+}
+.left-div{
+ width: 30%;
+    float: left;
+    margin: 5px auto;
+}
+.right-div{
+   width: 70%;
+    float:right;
+    margin: 5px auto;
+}
+.para1{
+    font-size:x-large;
+    margin-bottom: 10px;
+}
+.common-hr{
+    border: 1px black solid;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.heading2{
+    float: left;
+}
+.work-exp{
+    float: right;
+    width: 30%;
+}
+.para3{
+    float: right;
+}
+.heading5{
+    float: right;
+}
+.para5{
+width: 70%
+    float: right;
+}
+.para2{
+    font-size: large;
+    
+}
+.heading6{
+    text-align: center;
+}
+.para7{
+    
+}
+.common-hr1{
+    border: 1px black solid;
+    border-bottom: none;
+    width: 67%;
+    margin: 20px auto;
+}
+.common-hr2{
+    border: 1px black solid;
+    border-bottom: none;
+    width: 67%;
+    margin: 20px auto;
+}
+.Edu-left{
+    float: left;
+    width: 45%;
+}
+.Edu-right{
+    float: right;
+    width: 45%;
+}
+.link1 a{
+    text-decoration: none;
+}
+
+
+.link1 a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+.foot{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    
+}
+.foot a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.foot a:hover{
+    color: tomato;
+    text-decoration: underline;
+}
+.Edu-left a{
+    text-decoration: none;
+}
+.Edu-right a{
+    text-decoration: none;
+}
+.Edu-left a:hover{
+    color: tomato;
+    text-decoration: underline;
+}
+.Edu-right a:hover{
+    color: tomato;
+    text-decoration: underline;
+}
+.sp1{
+    text-decoration: underline;
+    text-decoration: black;
+}
